@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://pos-sederhana-backend.irfnbgs.my.id'
+  baseURL: 'https://pos-server-backend.irfnbgs.my.id'
 })
 
 export default api;
